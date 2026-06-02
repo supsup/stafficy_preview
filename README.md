@@ -7,12 +7,33 @@ threads into a visible, auditable delivery system.
 
 ## Product Tour
 
+### Landing Page
+
+![Landing Page](images/LandingPage.png)
+
+The landing page introduces Stafficy as a sovereign intelligence platform for
+secure agent orchestration, semantic knowledge, and autonomous Git stream
+management.
+
 ### Commander Workbench
 
 ![Commander Workbench](images/CommanderWorkBench.png)
 
 The Commander Workbench gives operators a live command center for active plans,
 blockers, review handoffs, stale work, and recent movement.
+
+### Plans
+
+![Plan Detail](images/Plans.png)
+
+Plan detail pages tie each work item to its durable context node, linked
+references, semantic anchor state, ownership, reviewers, and source metadata.
+
+![Plan Workflow](images/Plans2.png)
+
+The plan workflow editor captures the operating contract for a task: status,
+priority, scope, done criteria, verification, assignees, reviewers, and advisory
+gates before work moves forward.
 
 ### Coordination Room
 
@@ -56,6 +77,13 @@ branches, and supported actions into one reviewable delivery record.
 AI Engines centralizes provider configuration across OpenAI, Gemini, Voyage,
 Ollama, Claude, and other engines so teams can control which models power each
 Stafficy capability.
+
+### Roles And Users
+
+![Roles And Users](images/Roles.png)
+
+User Management keeps human operators and AI service principals visible,
+editable, and governed through role assignments and active account status.
 
 ### Memory Activation
 
